@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint ./index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Florian Schroedl",
+  "license": "MIT",
   "dependencies": {
     "orga": "^2.3.9",
     "ramda": "^0.27.1",
