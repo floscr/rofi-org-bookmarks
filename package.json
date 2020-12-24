@@ -10,9 +10,10 @@
   "author": "Florian Schroedl",
   "license": "MIT",
   "dependencies": {
-    "orga": "^2.3.9",
+    "orga": "2.0.0-next.1",
     "ramda": "^0.27.1",
-    "sanctuary": "^3.1.0"
+    "sanctuary": "^3.1.0",
+    "sanctuary-def": "^0.22.0"
   },
   "devDependencies": {
     "eslint": "^7.16.0",

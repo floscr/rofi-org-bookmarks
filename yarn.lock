@@ -868,13 +868,13 @@ optionator@^0.9.1:
     type-check "^0.4.0"
     word-wrap "^1.2.3"
 
-orga@^2.3.9:
-  version "2.3.9"
-  resolved "https://registry.yarnpkg.com/orga/-/orga-2.3.9.tgz#d45ba0c3fc03fe073d914698b003ad26be3a34ed"
-  integrity sha512-G0X7JS2TgPuR1wc7Z+nKZHgQdhK3LVaxBGEsDFFfnSh7pBnWmi1kZkvbqqGwH9NrC/bCA+r/hyToX7VbakwMdg==
+orga@2.0.0-next.1:
+  version "2.0.0-next.1"
+  resolved "https://registry.yarnpkg.com/orga/-/orga-2.0.0-next.1.tgz#e9f8a92b490044c5baa2cb478d08a7298825408c"
+  integrity sha512-T/B1n8cs3CYvUfHQojyXJq6hxlZEdgddOag7TXjzNeNOJFNc++B0EHZAgmkuGQaomF5UAAQBDsQdgDBT2qo9rQ==
   dependencies:
     luxon "^1.19.3"
-    text-kit "^2.3.8"
+    text-kit "^2.0.0-next.0"
     xregexp "^4.3.0"
 
 p-limit@^1.1.0:
@@ -1210,7 +1210,7 @@ table@^6.0.4:
     slice-ansi "^4.0.0"
     string-width "^4.2.0"
 
-text-kit@^2.3.8:
+text-kit@^2.0.0-next.0:
   version "2.3.8"
   resolved "https://registry.yarnpkg.com/text-kit/-/text-kit-2.3.8.tgz#7945ec75fe13fcea2104c5d51368f64614e3d57c"
   integrity sha512-FTBE6SlXm/XF9TRoPyHYdGqlegEcCz4NaznWjztVMzckqnf4w9aVQDdqIQwc5TfZRC54IcJN5CjqQqRy1GHNDg==
